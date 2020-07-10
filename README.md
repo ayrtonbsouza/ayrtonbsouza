@@ -12,6 +12,7 @@
 <li><a href="[https://angular.io/](https://angular.io/)">Angular</a></li>
 <li><a href="[https://expressjs.com/](https://expressjs.com/)">Express</a></li>
 <li><a href="[https://www.python.org/](https://www.python.org/)">Python</a></li>
+<li><a href="[https://developer.apple.com/swift/](https://developer.apple.com/swift/)">Swift</a></li>
 <li><a href="[https://git-scm.com/](https://git-scm.com/)">Git</a></li>
 <li><a href="[https://www.docker.com/](https://www.docker.com/)">Docker</a></li>
 <li><a href="[https://www.mongodb.com/](https://www.mongodb.com/)">MongoDB</a></li>
