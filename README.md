@@ -21,4 +21,4 @@
 <h2>📫 Contate-me</h2>
 <p>Você pode entrar em contato comigo por meio do <a href="[https://www.linkedin.com/in/ayrtonsouza](https://www.linkedin.com/in/ayrtonsouza)">meu LinkedIn</a>, em meu perfil você encontrará também meus outros meios de contato.</p>
 <h2></h2>
-<small>Made with <span>💙</span> by <strong><a href="[https://www.linkedin.com/in/ayrtonsouza](https://www.linkedin.com/in/ayrtonsouza)">Ayrton de Souza</a></small>
+<small>Made with 💙 by <strong><a href="[https://www.linkedin.com/in/ayrtonsouza](https://www.linkedin.com/in/ayrtonsouza)">Ayrton de Souza</a></small>
