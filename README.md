@@ -5,18 +5,18 @@
 <h3>💻 Minha stack</h3>
 <p>Desenvolvi ao longo de minha carreira uma stack baseada em JavaScript/TypeScript, mas tive contato com outras tecnologias, dessa forma, você pode me contatar se precisar de ajuda com, dentre outras, as seguintes tecnologias:</p>
 <ul>
-<li><a href="[https://developer.mozilla.org/en-US/docs/Web/JavaScript](https://developer.mozilla.org/en-US/docs/Web/JavaScript)">JavaScript</a></li>
-<li><a href="[https://www.typescriptlang.org/](https://www.typescriptlang.org/)">TypeScript</a></li>
-<li><a href="[https://reactjs.org/](https://reactjs.org/)">React</a></li>
-<li><a href="[https://reactnative.dev/](https://reactnative.dev/)">React Native</a></li>
-<li><a href="[https://angular.io/](https://angular.io/)">Angular</a></li>
-<li><a href="[https://expressjs.com/](https://expressjs.com/)">Express</a></li>
-<li><a href="[https://www.python.org/](https://www.python.org/)">Python</a></li>
-<li><a href="[https://developer.apple.com/swift/](https://developer.apple.com/swift/)">Swift</a></li>
-<li><a href="[https://git-scm.com/](https://git-scm.com/)">Git</a></li>
-<li><a href="[https://www.docker.com/](https://www.docker.com/)">Docker</a></li>
-<li><a href="[https://www.mongodb.com/](https://www.mongodb.com/)">MongoDB</a></li>
-<li><a href="[https://graphql.org/](https://graphql.org/)">GraphQL</a></li>
+<li>JavaScript</li>
+<li>TypeScript</li>
+<li>React</li>
+<li>React Native</li>
+<li>Angular</li>
+<li>Express</li>
+<li>Python</li>
+<li>Swift</li>
+<li>Git</li>
+<li>Docker</li>
+<li>MongoDB</li>
+<li>GraphQL</li>
 </ul>
 <h2>📫 Contate-me</h2>
 <p>Você pode entrar em contato comigo por meio do <a href="[https://www.linkedin.com/in/ayrtonsouza](https://www.linkedin.com/in/ayrtonsouza)">meu LinkedIn</a>, em meu perfil você encontrará também meus outros meios de contato.</p>
