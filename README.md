@@ -3,7 +3,7 @@
   alt="Ayrton Souza - Full Stack Software Engineer" />
 </p>
 
-<p align="center">| JavaScript | TypeScript | Node.js | ReactJS | React Native |</p>
+<p align="center">| JavaScript | TypeScript | Node.js | ReactJS | React Native | Angular |</p>
 
 <p align="center">
 
@@ -26,11 +26,13 @@
 </p>
 
 <h4 align="center">
-  Hey, I'm Ayrton!
+  Hello! I'm <b>Ayrton</b>!
 </h4>
 <p align="center">
-  📌 Living in <b>São Paulo</b>, <b>SP</b>, <b>Brazil</b> &nbsp; 💼 Tech Lead at <b>TeresaPerezTours</b> &nbsp;
+  📌 &nbsp; Living in <b>São Paulo</b>, <b>SP</b>, <b>Brazil</b> &nbsp;
 </p>
 <p align="center">
-  📚 Graduating in <b>Computer Engineering</b> &nbsp;
+  💼  &nbsp; Tech Lead at <b>TeresaPerezTours</b> &nbsp;
+<p align="center">
+  📚 &nbsp; Graduating in <b>Computer Engineering</b> &nbsp;
 </p>
