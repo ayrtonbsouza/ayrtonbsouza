@@ -14,7 +14,7 @@
   </a>
 
   <a href="mailto:ayrtonsouza@icloud.com" alt="iCloud" target="blank">
-    <img src="https://img.shields.io/badge/-Apple-000000?style=flat-square&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-iCloud-000000?style=flat-square&logo=apple&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/ayrtonsouza" alt="LinkedIn" target="blank">
