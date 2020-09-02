@@ -32,7 +32,7 @@
   📌 &nbsp; Living in <b>São Paulo</b>, <b>SP</b>, <b>Brazil</b> &nbsp;
 </p>
 <p align="center">
-  💼  &nbsp; Tech Lead at <b>TeresaPerezTours</b> &nbsp;
+  💼  &nbsp; Developer at <b>Dasa</b>  &nbsp;
 <p align="center">
   📚 &nbsp; Graduating in <b>Computer Engineering</b> &nbsp;
 </p>
