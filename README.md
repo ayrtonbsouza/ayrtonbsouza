@@ -24,9 +24,6 @@
   </a>
 
 </p>
-
-[![ayrtonbsouza's github stats](https://github-readme-stats.vercel.app/api?username=ayrtonbsouza)](https://github.com/anuraghazra/github-readme-stats)
-
 <h4 align="center">
   Hello! I'm <b>Ayrton</b>!
 </h4>
@@ -39,16 +36,4 @@
   📚 &nbsp; Graduating in <b>Computer Engineering</b> &nbsp;
 </p>
 
-</p>
-
-<h4 align="center">
-  Hello! I'm <b>Ayrton</b>!
-</h4>
-<p align="center">
-  📌 &nbsp; Living in <b>São Paulo</b>, <b>SP</b>, <b>Brazil</b> &nbsp;
-</p>
-<p align="center">
-  💼  &nbsp; Developer at <b>Dasa</b> and Tech Consultant at <b>TeresaPerezTours</b>  &nbsp;
-<p align="center">
-  📚 &nbsp; Graduating in <b>Computer Engineering</b> &nbsp;
 </p>
