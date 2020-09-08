@@ -25,6 +25,10 @@
 
 </p>
 
+<p align="center>
+    [![ayrtonbsouza's github stats](https://github-readme-stats.vercel.app/api?username=ayrtonbsouza)](https://github.com/ayrtonbsouza/github-readme-stats)      
+</p>
+
 <h4 align="center">
   Hello! I'm <b>Ayrton</b>!
 </h4>
