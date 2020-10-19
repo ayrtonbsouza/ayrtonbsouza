@@ -3,7 +3,7 @@
   alt="Ayrton Souza - Full Stack Software Engineer" />
 </p>
 
-<p align="center">| JavaScript | TypeScript | Node.js | ReactJS | React Native | VueJS |</p>
+<p align="center">| JavaScript | TypeScript | Node.js | ReactJS | React Native |</p>
 
 <p align="center">
 
