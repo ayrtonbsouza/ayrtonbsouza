@@ -22,6 +22,10 @@
   <a href="https://github.com/ayrtonbsouza" alt="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white" />
   </a>
+  
+  <a href="https://github.com/ayrtonbsouza" alt="Views" target="_blank">
+    <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&black=blue&style=flat-square" />
+  </a>
 
 </p>
 <h4 align="center">
