@@ -8,23 +8,23 @@
 <p align="center">
 
   <a href="https://web.whatsapp.com/send?phone=+5511941800859" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-000000?style=flat-square&logo=WhatsApp&logoColor=white" />
+    <img src="https://img.shields.io/badge/-WhatsApp-4c4c4c?style=flat-square&logo=WhatsApp&logoColor=white" />
   </a>
 
   <a href="mailto:ayrtonsouza@icloud.com" alt="iCloud" target="_blank">
-    <img src="https://img.shields.io/badge/-iCloud-000000?style=flat-square&logo=apple&logoColor=white" />
+    <img src="https://img.shields.io/badge/-iCloud-4c4c4c?style=flat-square&logo=apple&logoColor=white" />
   </a>
 
   <a href="https://www.linkedin.com/in/ayrtonsouza" alt="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-000000?style=flat-square&logo=Linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/-LinkedIn-4c4c4c?style=flat-square&logo=Linkedin&logoColor=white" />
   </a>
 
   <a href="https://github.com/ayrtonbsouza" alt="GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-000000?style=flat-square&logo=Github&logoColor=white" />
+    <img src="https://img.shields.io/badge/-GitHub-4c4c4c?style=flat-square&logo=Github&logoColor=white" />
   </a>
   
   <a href="https://github.com/ayrtonbsouza" alt="Views" target="_blank">
-    <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&black=blue&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=gray&style=flat-square" />
   </a>
 
 </p>
