@@ -1,6 +1,7 @@
 <p align="center">
   <img src="https://user-images.githubusercontent.com/30063455/95859452-0730d280-0d35-11eb-867b-684fad272630.png" width="500"
   alt="Ayrton Souza - Full Stack Software Engineer" />
+  &nbsp;
 </p>
 
 <p align="center">| JavaScript | TypeScript | Node.js | ReactJS | React Native |</p>
