@@ -30,7 +30,7 @@
 
 </p>
 <h4 align="center">
-  Hello! I'm <b>Ayrton</b>!
+  Hello!
 </h4>
 <p align="center">
   📌 &nbsp; Living in <b>São Paulo</b>, <b>SP</b>, <b>Brazil</b> &nbsp;
