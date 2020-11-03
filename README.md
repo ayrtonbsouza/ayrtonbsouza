@@ -27,7 +27,10 @@
   <a href="https://github.com/ayrtonbsouza" alt="Views" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=gray&style=flat-square" />
   </a>
-
+  
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza&layout=compact&theme=radical" />
+  </a>
 </p>
 <h4 align="center">
   Hello!
