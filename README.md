@@ -32,18 +32,17 @@
   Hello!
 </h4>
 <p align="center">
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza&layout=compact&theme=radical" />
+  </a>
+</p>
+<p align="center">
   📌 &nbsp; Living in <b>São Paulo</b>, <b>SP</b>, <b>Brazil</b> &nbsp;
 </p>
 <p align="center">
   💼  &nbsp; Developer at <b>Dasa</b> and Tech Consultant at <b>TeresaPerezTours</b>  &nbsp;
 <p align="center">
   📚 &nbsp; Graduating in <b>Computer Engineering</b> &nbsp;
-</p>
-
-<p align="center">
-  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza&layout=compact&theme=radical" />
-  </a>
 </p>
 
 </p>
