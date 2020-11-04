@@ -3,7 +3,11 @@
   alt="Ayrton Souza - Full Stack Software Engineer" />
   &nbsp;
 </p>
-
+<p align="center">
+  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza">
+    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza&layout=compact&theme=radical" />
+  </a>
+</p>
 <p align="center">| JavaScript | TypeScript | Node.js | ReactJS | React Native |</p>
 
 <p align="center">
@@ -38,11 +42,6 @@
   💼  &nbsp; Developer at <b>Dasa</b> and Tech Consultant at <b>TeresaPerezTours</b>  &nbsp;
 <p align="center">
   📚 &nbsp; Graduating in <b>Computer Engineering</b> &nbsp;
-</p>
-<p align="center">
-  <a href="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza">
-    <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza&layout=compact&theme=radical" />
-  </a>
 </p>
 
 </p>
