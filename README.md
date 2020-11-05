@@ -7,7 +7,7 @@
     <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/top-langs/?username=ayrtonbsouza&layout=compact&theme=radical" />
   </a>
 </p>
-<p align="center">| JavaScript | TypeScript | Node | ReactJS | React Native |</p>
+<p align="center">| JavaScript | TypeScript | Node | React | React Native |</p>
 
 <p align="center">
 
