@@ -30,10 +30,7 @@
   <a href="https://medium.com/@ayrtonsouza" alt="Medium" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-4c4c4c?style=flat-square&logo=Medium&logoColor=white" />
   </a>
-  
-  <a href="https://github.com/ayrtonbsouza" alt="Views" target="_blank">
     <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=gray&style=flat-square" />
-  </a>
 </p>
 <h4 align="center">
   Hello! I'm Ayrton!
