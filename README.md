@@ -32,19 +32,6 @@
     <img src="https://img.shields.io/badge/-Medium-FFE3BF?style=for-the-badge&logo=Medium&logoColor=%23350061" />
   </a>
 </p>
-<h4 align="center">
-  Hello! I'm Ayrton!
-</h4>
-<p align="center">
-  📌 &nbsp; Living in <b>São Paulo</b>, <b>SP</b>, <b>Brazil</b> &nbsp;
-</p>
-<p align="center">
-  💼  &nbsp; Developer at <b>Dasa</b>&nbsp;
-<p align="center">
-  📚 &nbsp; Graduating in <b>Computer Engineering</b> &nbsp;
-</p>
-
-</p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=FFE3BF&style=for-the-badge" />
 </p>
