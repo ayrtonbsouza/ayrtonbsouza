@@ -13,25 +13,25 @@
 <p align="center">
 
   <a href="https://web.whatsapp.com/send?phone=+5511941800859" alt="WhatsApp" target="_blank">
-    <img src="https://img.shields.io/badge/-WhatsApp-FFE3BF?style=flat-square&logo=WhatsApp&logoColor=%23350061" />
+    <img src="https://img.shields.io/badge/-WhatsApp-FFE3BF?style=for-the-badge&logo=WhatsApp&logoColor=%23350061" />
   </a>
 
   <a href="mailto:ayrtonsouza@icloud.com" alt="iCloud" target="_blank">
-    <img src="https://img.shields.io/badge/-iCloud-FFE3BF?style=flat-square&logo=apple&logoColor=%23350061" />
+    <img src="https://img.shields.io/badge/-iCloud-FFE3BF?style=for-the-badge&logo=apple&logoColor=%23350061" />
   </a>
 
   <a href="https://www.linkedin.com/in/ayrtonsouza" alt="LinkedIn" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-FFE3BF?style=flat-square&logo=Linkedin&logoColor=%23350061" />
+    <img src="https://img.shields.io/badge/-LinkedIn-FFE3BF?style=for-the-badge&logo=Linkedin&logoColor=%23350061" />
   </a>
 
   <a href="https://github.com/ayrtonbsouza" alt="GitHub" target="_blank">
-    <img src="https://img.shields.io/badge/-GitHub-FFE3BF?style=flat-square&logo=Github&logoColor=%23350061" />
+    <img src="https://img.shields.io/badge/-GitHub-FFE3BF?style=for-the-badge&logo=Github&logoColor=%23350061" />
   </a>
   
   <a href="https://medium.com/@ayrtonsouza" alt="Medium" target="_blank">
-    <img src="https://img.shields.io/badge/-Medium-FFE3BF?style=flat-square&logo=Medium&logoColor=%23350061" />
+    <img src="https://img.shields.io/badge/-Medium-FFE3BF?style=for-the-badge&logo=Medium&logoColor=%23350061" />
   </a>
-    <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=FFE3BF&style=flat-square" />
+    <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=FFE3BF&style=for-the-badge" />
 </p>
 <h4 align="center">
   Hello! I'm Ayrton!
