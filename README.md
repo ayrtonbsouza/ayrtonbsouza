@@ -32,6 +32,3 @@
     <img src="https://img.shields.io/badge/-Medium-FFE3BF?style=for-the-badge&logo=Medium&logoColor=%23350061" />
   </a>
 </p>
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=FFE3BF&style=for-the-badge" />
-</p>
