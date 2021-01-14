@@ -31,7 +31,6 @@
   <a href="https://medium.com/@ayrtonsouza" alt="Medium" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-FFE3BF?style=for-the-badge&logo=Medium&logoColor=%23350061" />
   </a>
-    <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=FFE3BF&style=for-the-badge" />
 </p>
 <h4 align="center">
   Hello! I'm Ayrton!
@@ -45,4 +44,7 @@
   📚 &nbsp; Graduating in <b>Computer Engineering</b> &nbsp;
 </p>
 
+</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=ayrtonbsouza&color=FFE3BF&style=for-the-badge" />
 </p>
