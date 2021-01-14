@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/30063455/104543456-3987ef80-5604-11eb-9598-b4b4eb53934b.png" 
+  <img src="https://user-images.githubusercontent.com/30063455/104543901-507b1180-5605-11eb-9c98-a5aed8fb20f4.png" 
   alt="Ayrton Souza - Full Stack Software Engineer" />
 </p>
 <p align="center">
