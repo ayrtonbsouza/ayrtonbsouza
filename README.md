@@ -1,7 +1,7 @@
-<h1 align="center">
+<p align="center">
   <img src="https://user-images.githubusercontent.com/30063455/104543901-507b1180-5605-11eb-9c98-a5aed8fb20f4.png" 
   alt="Ayrton Souza - Full Stack Software Engineer" />
-</h1>
+</p>
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23350061.svg?&style=for-the-badge&logo=javascript&logoColor=%23FF0037" height="25"/>
 <img src="https://img.shields.io/badge/typescript%20-%23350061.svg?&style=for-the-badge&logo=typescript&logoColor=%23FF0037" height="25"/>
