@@ -5,6 +5,7 @@
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%23350061.svg?&style=for-the-badge&logo=javascript&logoColor=%23FF0037" height="25"/>
 <img src="https://img.shields.io/badge/typescript%20-%23350061.svg?&style=for-the-badge&logo=typescript&logoColor=%23FF0037" height="25"/>
+<img src="https://img.shields.io/badge/dart%20-%23350061.svg?&style=for-the-badge&logo=dart&logoColor=%23FF0037" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%23350061.svg?&style=for-the-badge&logo=node.js&logoColor=%23FF0037" height="25"/>
 <img src="https://img.shields.io/badge/elixir%20-%23350061.svg?&style=for-the-badge&logo=elixir&logoColor=%23FF0037" height="25"/>
 <img src="https://img.shields.io/badge/react%20-%23350061.svg?&style=for-the-badge&logo=react&logoColor=%23FF0037" height="25"/>
