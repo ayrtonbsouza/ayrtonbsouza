@@ -5,12 +5,11 @@
 <p align="center">
 <img src="https://img.shields.io/badge/javascript-%236956F6.svg?&style=for-the-badge&logo=javascript&logoColor=%23F6F6F6" height="25"/>
 <img src="https://img.shields.io/badge/typescript%20-%236956F6.svg?&style=for-the-badge&logo=typescript&logoColor=%23F6F6F6" height="25"/>
-<img src="https://img.shields.io/badge/dart%20-%236956F6.svg?&style=for-the-badge&logo=dart&logoColor=%23F6F6F6" height="25"/>
+<img src="https://img.shields.io/badge/go%20-%236956F6.svg?&style=for-the-badge&logo=go&logoColor=%23F6F6F6" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%236956F6.svg?&style=for-the-badge&logo=node.js&logoColor=%23F6F6F6" height="25"/>
 <img src="https://img.shields.io/badge/elixir%20-%236956F6.svg?&style=for-the-badge&logo=elixir&logoColor=%23F6F6F6" height="25"/>
 <img src="https://img.shields.io/badge/react%20-%236956F6.svg?&style=for-the-badge&logo=react&logoColor=%23F6F6F6" height="25"/>
 <img src="https://img.shields.io/badge/react%20native-%236956F6.svg?&style=for-the-badge&logo=react&logoColor=%23F6F6F6" height="25"/>
-<img src="https://img.shields.io/badge/flutter%20-%236956F6.svg?&style=for-the-badge&logo=flutter&logoColor=%23F6F6F6" height="25"/>
 </p>
 
 <p align="center">
