@@ -18,7 +18,7 @@
     <img src="https://img.shields.io/badge/-WhatsApp-575756?style=for-the-badge&logo=WhatsApp&logoColor=%23F6F6F6" />
   </a>
 
-  <a href="mailto:ayrtonsouza@icloud.com" alt="iCloud" target="_blank">
+  <a href="mailto:me@ayrtonsouza.com" alt="mail" target="_blank">
     <img src="https://img.shields.io/badge/-Mail-575756?style=for-the-badge&logo=gmail&logoColor=%23F6F6F6" />
   </a>
 
