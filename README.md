@@ -14,7 +14,7 @@
 
 <p align="center">
 
-  <a href="https://web.whatsapp.com/send?phone=+5511941800859" alt="WhatsApp" target="_blank">
+  <a href="[https://wa.me/5511941800859](https://wa.me/5511941800859)" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-1c1914?style=for-the-badge&logo=WhatsApp&logoColor=%23fdf8f1" />
   </a>
 
