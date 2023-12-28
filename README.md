@@ -33,7 +33,7 @@
   <a href="https://medium.com/@ayrtonsouza" alt="Medium" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-f5f1ea?style=for-the-badge&logo=Medium&logoColor=%231c1914" />
   </a>
-  <a href="[https://ayrtonsouza.com](https://ayrtonsouza.com/)" alt="Website" target="_blank">
+  <a href="https://ayrtonsouza.com/" alt="Website" target="_blank">
     <img src="https://img.shields.io/badge/-Website-f5f1ea?style=for-the-badge&logo=nextdotjs&logoColor=%231c1914" />
   </a>
 </p>
