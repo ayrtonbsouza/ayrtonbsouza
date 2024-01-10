@@ -1,8 +1,8 @@
-<p align="center">
+<p align="left">
   <img src="https://github.com/ayrtonbsouza/ayrtonbsouza/assets/30063455/1f786e10-7242-4455-902a-9bd428ffe18f" 
   alt="Ayrton Souza - Full Stack Software Engineer" />
 </p>
-<p align="center">
+<p align="left">
 <img src="https://img.shields.io/badge/javascript-%23f5f1ea.svg?&style=for-the-badge&logo=javascript&logoColor=%231c1914" height="25"/>
 <img src="https://img.shields.io/badge/typescript%20-%23f5f1ea.svg?&style=for-the-badge&logo=typescript&logoColor=%231c1914" height="25"/>
 <img src="https://img.shields.io/badge/node.js%20-%23f5f1ea.svg?&style=for-the-badge&logo=node.js&logoColor=%231c1914" height="25"/>
@@ -12,7 +12,7 @@
 <img src="https://img.shields.io/badge/react%20native-%23f5f1ea.svg?&style=for-the-badge&logo=react&logoColor=%231c1914" height="25"/>
 </p>
 
-<p align="center">
+<p align="left">
 
   <a href="https://wa.me/5511941800859" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-f5f1ea?style=for-the-badge&logo=WhatsApp&logoColor=%231c1914" />
