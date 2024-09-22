@@ -3,13 +3,14 @@
   alt="Ayrton Souza - Full Stack Software Engineer" />
 </p>
 <p align="left">
-<img src="https://img.shields.io/badge/javascript-%23f5f1ea.svg?&style=for-the-badge&logo=javascript&logoColor=%231c1914" height="25"/>
-<img src="https://img.shields.io/badge/typescript%20-%23f5f1ea.svg?&style=for-the-badge&logo=typescript&logoColor=%231c1914" height="25"/>
-<img src="https://img.shields.io/badge/node.js%20-%23f5f1ea.svg?&style=for-the-badge&logo=node.js&logoColor=%231c1914" height="25"/>
+  <img src="https://img.shields.io/badge/javascript-%23f5f1ea.svg?&style=for-the-badge&logo=javascript&logoColor=%231c1914" height="25"/>
+  <img src="https://img.shields.io/badge/typescript%20-%23f5f1ea.svg?&style=for-the-badge&logo=typescript&logoColor=%231c1914" height="25"/>
+  <img src="https://img.shields.io/badge/node.js%20-%23f5f1ea.svg?&style=for-the-badge&logo=node.js&logoColor=%231c1914" height="25"/>
   <img src="https://img.shields.io/badge/go%20-%23f5f1ea.svg?&style=for-the-badge&logo=go&logoColor=%231c1914" height="25"/>
-<img src="https://img.shields.io/badge/elixir%20-%23f5f1ea.svg?&style=for-the-badge&logo=elixir&logoColor=%231c1914" height="25"/>
-<img src="https://img.shields.io/badge/react%20-%23f5f1ea.svg?&style=for-the-badge&logo=react&logoColor=%231c1914" height="25"/>
-<img src="https://img.shields.io/badge/react%20native-%23f5f1ea.svg?&style=for-the-badge&logo=react&logoColor=%231c1914" height="25"/>
+  <img src="https://img.shields.io/badge/elixir%20-%23f5f1ea.svg?&style=for-the-badge&logo=elixir&logoColor=%231c1914" height="25"/>
+  <img src="https://img.shields.io/badge/react%20-%23f5f1ea.svg?&style=for-the-badge&logo=react&logoColor=%231c1914" height="25"/>
+  <img src="https://img.shields.io/badge/react%20native-%23f5f1ea.svg?&style=for-the-badge&logo=react&logoColor=%231c1914" height="25"/>
+  <img src="https://img.shields.io/badge/python%20-%23f5f1ea.svg?&style=for-the-badge&logo=python&logoColor=%231c1914" height="25"/>
 </p>
 
 <p align="left">
