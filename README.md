@@ -12,25 +12,19 @@
   <img src="https://img.shields.io/badge/react%20native-%23f5f1ea.svg?&style=for-the-badge&logo=react&logoColor=%231c1914" height="25"/>
   <img src="https://img.shields.io/badge/python%20-%23f5f1ea.svg?&style=for-the-badge&logo=python&logoColor=%231c1914" height="25"/>
 </p>
-
 <p align="left">
-
   <a href="https://wa.me/5511941800859" alt="WhatsApp" target="_blank">
     <img src="https://img.shields.io/badge/-WhatsApp-f5f1ea?style=for-the-badge&logo=WhatsApp&logoColor=%231c1914" />
   </a>
-
   <a href="mailto:me@ayrtonsouza.com" alt="mail" target="_blank">
     <img src="https://img.shields.io/badge/-Mail-f5f1ea?style=for-the-badge&logo=gmail&logoColor=%231c1914" />
   </a>
-
   <a href="https://www.linkedin.com/in/ayrtonsouza" alt="LinkedIn" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-f5f1ea?style=for-the-badge&logo=Linkedin&logoColor=%231c1914" />
   </a>
-
   <a href="https://github.com/ayrtonbsouza" alt="GitHub" target="_blank">
     <img src="https://img.shields.io/badge/-GitHub-f5f1ea?style=for-the-badge&logo=Github&logoColor=%231c1914" />
   </a>
-  
   <a href="https://medium.com/@ayrtonsouza" alt="Medium" target="_blank">
     <img src="https://img.shields.io/badge/-Medium-f5f1ea?style=for-the-badge&logo=Medium&logoColor=%231c1914" />
   </a>
